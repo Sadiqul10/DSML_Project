@@ -1,0 +1,19 @@
+# Data folders - ignore large files
+project1_nlp/data/raw/
+project1_nlp/data/processed/*.csv
+project1_nlp/data/processed/*.pkl
+
+# Allow PNG charts to be committed
+!project1_nlp/data/processed/*.png
+
+# Common ignore rules
+*.xlsx
+*.parquet
+*.zip
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+
+
