@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
@@ -17,4 +16,4 @@ spacy
 vaderSentiment
 joblib
 python-multipart
->>>>>>> ab166886d98b852400d06243de458d5cc600cd53
+
