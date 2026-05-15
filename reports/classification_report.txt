@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+  slow_close       0.38      0.89      0.53       888
+  fast_close       0.98      0.81      0.89      6669
+
+    accuracy                           0.82      7557
+   macro avg       0.68      0.85      0.71      7557
+weighted avg       0.91      0.82      0.84      7557

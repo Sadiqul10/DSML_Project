@@ -1,0 +1,12 @@
+{
+  "created_date": "2019-12-01T02:04:01.000",
+  "agency": "DOT",
+  "complaint_type": "Street Condition",
+  "descriptor": "Pothole",
+  "location_type": "Street",
+  "incident_zip": "10001",
+  "borough": "MANHATTAN",
+  "open_data_channel_type": "ONLINE",
+  "latitude": 40.745668482774114,
+  "longitude": -73.9877188309367
+}
